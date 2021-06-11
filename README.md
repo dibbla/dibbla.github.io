@@ -8,5 +8,8 @@ This is the page used to mark Dibbla's path in summer. Mostly the records of lea
 
 Now trying to make a reapperance of [This paper](https://arxiv.org/abs/1902.06075) to have a primary understanding
 
+### Update:
+- Done principle learning in MCTS&determinizationMCTS; page establish; primary reading on [This paper](https://arxiv.org/abs/1902.06075)
+
 ### Problems need to tackle
-- MCTS maybe a demo implementaion
+- MCTS maybe a demo implementaion--holdem poker
