@@ -24,15 +24,6 @@ Now trying to make a reapperance of [This paper](https://arxiv.org/abs/1902.0607
 
 ***
 
-## Timeline:
-- MCTS on holdem poker
-- MCTS on tictactoe
-- (determinizationMCTS on poker)
-- Hanabi gym
-- Rule base on Hanabi
-
-***
-
 ## Update:
 - Done principle learning in MCTS&determinizationMCTS; page establish; primary reading on [This paper](https://arxiv.org/abs/1902.06075)
 
